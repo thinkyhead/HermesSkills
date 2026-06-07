@@ -31,6 +31,19 @@ A collection of reusable, well-documented workflows and procedures for the Herme
 
 ---
 
+### note-taking/voice-memo-setup
+
+**Set up automatic transcription of Apple Voice Memos to FSNotes using macOS Folder Actions.** Installs Buzz for offline transcription, creates the transcription script, sets up an Automator workflow, and attaches it to the Voice Memos Recordings folder.
+
+**Use this skill when you need to:**
+- Automatically transcribe Voice Memos as they're recorded
+- Set up a complete Folder Action workflow from scratch
+- Customize the transcription process for different note formats
+
+**See:** `skills/voice-memo-setup/SKILL.md` for full documentation.
+
+---
+
 ### github-bisect-poller
 
 **Generic GitHub issue polling workflow for tracking reporter responses and advancing bisect sessions.** Adaptable to any repo where you need to poll issues for specific response patterns and take action based on them.
